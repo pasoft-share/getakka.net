@@ -2,7 +2,8 @@
     "plugins": [
         "structured-toc",
         "autocover",
-        "atoc"
+        "atoc",
+        "gtoc"
     ],
     "pluginsConfig": {}
 }

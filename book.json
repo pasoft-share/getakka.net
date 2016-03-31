@@ -1,4 +1,7 @@
 {
+    "structure": { 
+    "summary": "src/docs/index.md" 
+    } 
     "plugins": [
         "structured-toc",
         "autocover",
